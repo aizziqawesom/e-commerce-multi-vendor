@@ -1,0 +1,1 @@
+ H:\\UM_STUFF_2024\\own_e_commerce\\.dart_tool\\flutter_build\\7fb5cd6a7dc5c652336e9eb7ce5f72f9\\native_assets.yaml: 
